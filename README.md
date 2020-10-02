@@ -1,7 +1,9 @@
 # shinyapp
 
 B.G.H. Piyumika 
+
 Topic - Simple Linear Regression 
 
-Jayani
- Parametric tests for mean comparison.
+Jayani - Parametric tests for mean comparison.
+ 
+ Thimani - Correlation
